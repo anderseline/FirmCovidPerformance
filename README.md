@@ -1,6 +1,6 @@
 # Assignment 5 - Correlations Between Risk and Returns during COVID Onset
 
-This assignment attempts to uncovere what types of firms were hurt most by the vast market drops across the world during the period of early March. In this study, I defined a type of firm by the sort of risks it faced, and attempted to quantify these risks by parsing 10K text for firms in the S&P500 that had public filings before the date 03/01/2020. The approach I took can be divided into 3 main parts:
+This assignment uncovers what types of firms were hurt most by the vast market drops across the world during the period of early March. In this study, I defined a type of firm by the sort of risks it faced, and attempted to quantify these risks by parsing 10K text for firms in the S&P500 that had public filings before the date 03/01/2020. The approach I took can be divided into 3 main parts:
 
 1. [Downloading the 10K files](download_10Ks.ipynb)
 2. [Measuring and quantifying the risk found in each 10K for each firm](measure_risk.ipynb)
