@@ -1,4 +1,4 @@
-# Assignment 5 - Correlations Between Risk and Returns during COVID Onset
+# Correlations Between Risk and Returns during COVID Onset
 
 Created as a project in Professor Bowen's FIN377 Class at Lehigh University
 
